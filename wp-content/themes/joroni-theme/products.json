@@ -1,0 +1,16 @@
+[{
+	"title": "example glossary",
+	"description": "A meta-markup language, used to create markup languages such as DocBook.",
+	"price": "120",
+	"ingredients": "tomato, ketchup"
+}, {
+	"title": "example glossary2",
+	"description": "A meta-markup language, used to create markup languages such as DocBook.",
+	"price": "120",
+	"ingredients": "tomato, ketchup"
+}, {
+	"title": "example glossary3",
+	"description": "A meta-markup language, used to create markup languages such as DocBook.",
+	"price": "120",
+	"ingredients": "tomato, ketchup"
+}]
